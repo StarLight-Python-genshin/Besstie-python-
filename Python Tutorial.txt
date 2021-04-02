@@ -1,0 +1,8 @@
+1. Install python- https://www.python.org/
+2. Download .mid (midi) files you want to use
+3. Open windows powershell as admin
+4. Type pip install pynput mido (in powershell)
+5. Copy file path address 
+6. Type - cd <FOLDER_PATH_ADDRESS_YOU_COPIED> (in powershell) 
+7. Type - python GenshinMidi.py (in powershell)
+8. ENJOY :]]]]]]] <33333 
